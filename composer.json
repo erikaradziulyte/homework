@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Nfq\\": "nfq/"
+    }
+  },
+  "require": {
+    "jakub-onderka/php-console-color": "^0.2.0"
+  }
+}
